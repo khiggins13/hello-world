@@ -1,2 +1,2 @@
 # hello-world
-My test repo
+My test repo for my Coursera learning.
